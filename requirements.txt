@@ -1,0 +1,7 @@
+langchain>=1.0.0
+langchain-google-genai
+langchain-community
+python-dotenv
+numexpr
+google-search-results
+pydantic
